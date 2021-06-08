@@ -51,7 +51,8 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: Montgomery County Shapefile
    - Date accessed: 6/8/2021
    - Link: https://arcg.is/1aWinu
-   - Note: there is an interactive arcgis precinct map, but there is no download option. Emailed Todd Grant, the GIS manager at toddgrant@mc-ala.org. 
+   - File: `MontgomeryCountyVotingPrecincts.zip` (available upon request)
+   - Note: there is an interactive arcgis precinct map, but there is no download option. Emailed Todd Grant, the GIS manager at toddgrant@mc-ala.org. Todd sent over the shapefile to us, however it is unclear if it is the 2018 shapefile. 
 - File: Morgan County Shapefile
    - Date accessed: 6/3/2021
    - Link: https://www.morgancountyelections.com/election-information/precinct-maps/
