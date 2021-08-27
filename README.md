@@ -10,7 +10,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 RDH's partner data validation for VEST's 2020 AL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4751074&datasetVersionId=247483).
 
-#### _In progress as of 6/3/21_
+View the final report [here](https://github.com/nonpartisan-redistricting-datahub/pdv-al/blob/main/vest-al-2020).
 
 ## vest-al-2018
 
