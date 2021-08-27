@@ -63,7 +63,10 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: Talladega County Shapefile
    - Date accessed: 6/3/2021
    - Link: https://www.talladegacountyal.org/departments/voter_registration/county_district_maps.php
-   - Note: only finding a PDF map from 2013. Unlikely that they have a shapefile because the map looks like a scan of a physical copy. 
+   - Note: only finding a PDF map from 2013. Unlikely that they have a shapefile because the map looks like a scan of a physical copy.
+- File: County Canvass Report, 2020
+   - Date accessed: 8/27/2021
+   - Link: https://www.sos.alabama.gov/sites/default/files/election-2020/Final%20Canvass%20of%20Results-Merged.pdf 
    
 ### Inaccessible files:
 
