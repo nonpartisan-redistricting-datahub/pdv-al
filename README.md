@@ -10,22 +10,22 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 RDH's partner data validation for VEST's 2020 AL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4751074&datasetVersionId=247483).
 
-View the final report [here](https://github.com/nonpartisan-redistricting-datahub/pdv-al/blob/main/vest-al-2020).
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-alabama-precinct-and-election-results/).
 
 ## vest-al-2018
 
 RDH's partner data validation for VEST's 2018 AL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4751072&datasetVersionId=247482).
 
-#### _In progress as of 6/3/21_
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-alabama-precinct-and-election-results/).
 
 ## vest-al-2017
 
 RDH's partner data validation for VEST's 2017 AL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4751071&datasetVersionId=247478).
 
-#### _In progress as of 6/3/21_
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2017-alabama-precinct-and-election-results/).
 
 ## vest-al-2016
 
 RDH's partner data validation for VEST's 2016 AL file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4751068&datasetVersionId=247481).
 
-#### _In progress as of 6/3/21_
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-alabama-precinct-and-election-results/).
