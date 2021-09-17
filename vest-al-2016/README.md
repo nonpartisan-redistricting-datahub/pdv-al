@@ -98,7 +98,10 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - Note: only finding the list of polling locations, but no precinct map on their website. 
 - File: Tuscaloosa County Shapefile
    - Date accessed: 6/3/2021
-   - Note: they have a list of polling locations, but not finding a precinct map on their website. 
+   - Note: they have a list of polling locations, but not finding a precinct map on their website.
+- File: Blount, Bullock, Dallas, Escambia, Greene, Hale, Jackson, Jefferson, Lamar, Lawrence, Marion, Pickens, Randolph, Russell, St. Clair, Shelby, Washington, Wilcox county canvass reports (precinct-level data)
+   - Note: While we were able to find a state canvass report, we could not locate canvass reports for these counties that had data at the precinct level.
+ 
 
 ## File processing:
 
